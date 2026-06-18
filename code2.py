@@ -1,1 +1,1 @@
-prueba
+print("hello world")
